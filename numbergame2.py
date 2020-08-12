@@ -1,7 +1,8 @@
 import keyboard
 import pyfiglet
+import random
 
-number = 78
+number = random.randint(0,9)
 no_of_guesses = 0
 
 banner = pyfiglet.figlet_format("Guess The Number")
