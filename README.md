@@ -7,13 +7,12 @@ Number changes every time you run the program
 
 
 Modules - 
-Keyboard
+
 Pyfiglet
 Random
 
 Installation - 
 
-pip install keyboard
 pip install pyfiglet
 pip install random
 
